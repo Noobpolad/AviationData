@@ -1,0 +1,1 @@
+All the requests are saved in ForMid folder, in RootUserSearches and SimpleUserSearches, at the same place you can find the credentials for Root user (usernames,passwords) and Report for the program.
